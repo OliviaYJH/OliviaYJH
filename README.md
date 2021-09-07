@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-😄 JungHyun Yu
+👩🏻 JungHyun Yu
 - SMWU Computer Science
+
+💻 Experience
 - Apps 2020.03~
 
 <!--
