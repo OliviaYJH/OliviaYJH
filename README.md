@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-👩🏻 JungHyun Yu
 ### 👩🏻 JungHyun Yu
 - SMWU Computer Science
 
-💻 Experience
+### 💻 Experience
 - Apps 2020.03~
   - Unity3D Game Team Project 'Delivery Run'
 
