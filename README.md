@@ -5,8 +5,8 @@
 
 ### 💻 Experience
 - Apps 2020.03~
-  - Unity3D Game Team Project 'Delivery Run'
-  - APPS 2021 Exhibition Page
+  - Unity3D Game Team Project 'Delivery Run' -> c#
+  - APPS 2021 Exhibition Page -> js
 
 
 
