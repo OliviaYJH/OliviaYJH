@@ -6,8 +6,8 @@
 ### 💻 Experience
 - Apps 2020.03~
   - Unity3D Game Team Project 'Delivery Run' -> c#
-  - APPS 2021 Exhibition Page -> js
-
+  - APPS 2021 Exhibition Page 
+- SMSWH(Sookmyung Software Hackathon) 'Seekmyung'
 
 
 <!--
