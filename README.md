@@ -1,14 +1,11 @@
 ### Hi there 👋
 
-### :girl: JungHyun Yu
-- SMWU Computer Science
+### 😄 JungHyun Yu
 
-### :computer: Experience
-- Apps 2020.03~
-  - Unity3D Game Team Project 'Delivery Run' -> c#
-  - APPS 2021 Exhibition Page 
-- 2021 Sookmyung Software Hackathon 'Seekmyung'
+#### 🌱 I’m currently learning ...
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>  <img src="https://img.shields.io/badge/Unity-black?style=flat-square&logo=Unity&logoColor=white"/>  <img src="https://img.shields.io/badge/C Sharp-239120?style=flat-square&logo=CSharp&logoColor=white"/>  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C&2B%2B&logoColor=white"/>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OliviaYJH&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
@@ -24,4 +21,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR> 형태로
 -->
