@@ -7,6 +7,16 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OliviaYJH&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
+<a href="mailto:00703olivia@gmail.com">
+    <img 
+        src="https://img.shields.io/badge/Gmail-000000?style=flat&logo=Gmail&logoColor=white&link=mailto:00703olivia@gmail.com"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+<a href="https://working-hippodraco-f05.notion.site/c4a0da029099484c96606dcee360f10a?pvs=4">
+    <img 
+        src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=ReverbNation&logoColor=white&link=https://working-hippodraco-f05.notion.site/c4a0da029099484c96606dcee360f10a?pvs=4"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
 
 <!--
 **OliviaYJH/OliviaYJH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
