@@ -3,9 +3,9 @@
 ### 😄 JungHyun Yu
 
 #### 🌱 I’m currently learning ...
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"> 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OliviaYJH&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <a href="mailto:00703olivia@gmail.com">
     <img 
@@ -16,6 +16,8 @@
     
 
 <!--
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OliviaYJH&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+
 **OliviaYJH/OliviaYJH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
