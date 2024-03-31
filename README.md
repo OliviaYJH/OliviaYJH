@@ -3,7 +3,9 @@
 ### 😄 JeongHyun Yu
 
 
-
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white)
+![JetpackCompose](https://img.shields.io/badge/JetpackCompose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white)
 
 <a href="mailto:00703olivia@gmail.com">
     <img 
@@ -11,7 +13,13 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
-    
+### **⭐️ Experiences**
+- APPS member 2020.03 ~ 2022.12
+- UMC member 2022.03 ~ 2023.02
+
+### **🏆 Awards**
+- 제 5회 KBSC KB국민은행 소프트웨어 경진대회 특별상(2022.11)
+- 코딧×코스 연합 해커톤 COKOTHON 제1회 최우수상(2022.12)
 
 <!--
 
