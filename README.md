@@ -24,6 +24,8 @@
 - 코딧×코스 연합 해커톤 COKOTHON 제1회 최우수상(2022.12)
 - 생성AI 캐릭터톤 대상(2024.07)
 
+<a href="https://velog.io/@0703olivia/posts"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=for-the-badge&logo=Vimeo&logoColor=white&link=https://velog.io/@0703olivia/posts"/></a>
+
 <!--
 
 #### 🌱 I’m currently learning ...
